@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrtringify",
+        "uuid": 549699,
+        "checksum": "a9u1xo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
